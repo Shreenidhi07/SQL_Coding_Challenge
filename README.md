@@ -4,7 +4,7 @@
 The system comprises the following tables:  
 
 ### 1. Pets 
-- PetID (Primary Key, INT): Unique identifier assigned to each pet.  
+- **PetID** (Primary Key, INT): Unique identifier assigned to each pet.  
 - **Name** (VARCHAR): Name of the pet.  
 - **Age** (INT): Age of the pet in years.  
 - **Breed** (VARCHAR): Breed classification of the pet.  
